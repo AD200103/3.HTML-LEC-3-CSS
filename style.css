@@ -1,0 +1,21 @@
+.box{
+    width: 500px;
+    height: 500px;
+    background-color: blueviolet;
+    border: 6px solid red;
+
+  /* font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal; */
+
+  /* font-family: "Heebo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal; */
+
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}

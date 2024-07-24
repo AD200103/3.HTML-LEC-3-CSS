@@ -1,0 +1,38 @@
+header {
+  height: 100px;
+  background-color: cadetblue;
+}
+
+aside {
+  height: 500px;
+  background-color: brown;
+  width: 30%;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 16px;
+}
+
+main {
+  height: 500px;
+  background-color: green;
+  width: 70%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+footer {
+  height: 100px;
+  background-color: bisque;
+}
+
+.middle-section {
+  font-size: 0;
+}
+
+.divs {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+
+  /* display: inline-block; */
+}

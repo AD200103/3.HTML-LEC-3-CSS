@@ -1,0 +1,77 @@
+header{
+    width: 100%;
+    height: 200px;
+    background-color: brown;
+    outline: 6px solid gold;
+}
+
+aside{
+    width: 20%;
+    height: 800px;
+    background-color: black;
+    font-size: 20px;
+    display:inline-block;
+    vertical-align: middle;
+
+}
+main{
+    width: 60%;
+    height: 800px;
+    background-color: chocolate;
+    display:inline-block;
+    vertical-align: middle;
+    color:brown;
+    font-size: 50px;
+   text-shadow:2px 2px red;
+   text-align: center;
+
+   font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sty{
+text-shadow:4px 4px black;
+   text-align: right;
+font-size: 60px;
+font-family: 'Times New Roman', Times, serif;}
+
+.middle-section {
+    font-size: 0;
+  }
+
+footer{width: 100%;
+    height: 200px;
+    background-color: brown;}
+
+.pirmas{
+    background-image: url(wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.avif);
+    width:20%;
+    height:200px;
+    display:inline-block;
+    background-position: center;
+}
+.antras{background-image: url(beautiful-nature-mountain-scenery-with-flowers-free-photo.webp);
+    width:20%;
+    height:200px;
+    display:inline-block;
+    background-position: center;
+}
+.trecias{background-image: url(bird-8788491_1280.webp);
+    width:20%;
+    height:200px;
+    display:inline-block;
+    background-position: center;
+}
+.ketvirtas{background-image: url(pexels-michael-block-1691617-3225517.jpg);
+    width:20%;
+    height:200px;
+    display:inline-block;
+    background-position: center;
+}
+.penktas{background-image: url(bird-8788491_1280.webp);
+    width:20%;
+    height:200px;
+    display:inline-block;
+    background-position: center;
+}
